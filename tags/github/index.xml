@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>static-site on ABKs Dev</title>
-    <link>https://abksdev.com/tags/static-site/</link>
-    <description>Recent content in static-site on ABKs Dev</description>
+    <title>github on ABKs Dev</title>
+    <link>https://abksdev.com/tags/github/</link>
+    <description>Recent content in github on ABKs Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 May 2020 07:31:48 +0530</lastBuildDate>
     
-	<atom:link href="https://abksdev.com/tags/static-site/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://abksdev.com/tags/github/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
