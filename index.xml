@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ABKs Dev</title>
+    <title>abks dev</title>
     <link>https://abksdev.com/</link>
-    <description>Recent content on ABKs Dev</description>
+    <description>Recent content on abks dev</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 17 May 2020 07:31:48 +0530</lastBuildDate>
+    <language>en</language>
+    <lastBuildDate>Tue, 19 May 2020 21:26:16 +0530</lastBuildDate>
     
 	<atom:link href="https://abksdev.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>How I Created My First Webpage Without HTML, CSS and JavaScript ? [FREE]</title>
-      <link>https://abksdev.com/blog/first_post/</link>
-      <pubDate>Sun, 17 May 2020 07:31:48 +0530</pubDate>
+      <title>How I Created My First Blog And Hosted It For Free ?</title>
+      <link>https://abksdev.com/blog/2020_05_19/</link>
+      <pubDate>Tue, 19 May 2020 19:34:02 +0530</pubDate>
       
-      <guid>https://abksdev.com/blog/first_post/</guid>
-      <description>Well the answer is quiet simple actually, Googling every possible combination of the keywords you are Googling right now.</description>
+      <guid>https://abksdev.com/blog/2020_05_19/</guid>
+      <description>Well the answer is quiet simple actually, Googling every possible combination of the keywords you are Googling right now. After endless hours of research and trying out many different options I have a solution which works for works for me and that too for free if you don&amp;rsquo;t need a custom domain, with only one Disclaimer it only works for static webpages.
+So, if you are looking for creating a static website you can this post is going to help you otherwise it is a good read.</description>
     </item>
     
   </channel>

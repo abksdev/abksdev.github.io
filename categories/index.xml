@@ -1,22 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on ABKs Dev</title>
+    <title>Categories on abks dev</title>
     <link>https://abksdev.com/categories/</link>
-    <description>Recent content in Categories on ABKs Dev</description>
+    <description>Recent content in Categories on abks dev</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 17 May 2020 07:31:48 +0530</lastBuildDate>
+    <language>en</language>
+    <lastBuildDate>Tue, 19 May 2020 19:34:02 +0530</lastBuildDate>
     
 	<atom:link href="https://abksdev.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Web Development</title>
-      <link>https://abksdev.com/categories/web-development/</link>
-      <pubDate>Sun, 17 May 2020 07:31:48 +0530</pubDate>
+      <title>development</title>
+      <link>https://abksdev.com/categories/development/</link>
+      <pubDate>Tue, 19 May 2020 19:34:02 +0530</pubDate>
       
-      <guid>https://abksdev.com/categories/web-development/</guid>
+      <guid>https://abksdev.com/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web hosting</title>
+      <link>https://abksdev.com/categories/web-hosting/</link>
+      <pubDate>Tue, 19 May 2020 19:34:02 +0530</pubDate>
+      
+      <guid>https://abksdev.com/categories/web-hosting/</guid>
       <description></description>
     </item>
     
