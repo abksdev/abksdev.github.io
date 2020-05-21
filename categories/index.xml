@@ -6,10 +6,19 @@
     <description>Recent content in Categories on abks dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 May 2020 19:34:02 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2020 05:08:18 +0530</lastBuildDate>
     
 	<atom:link href="https://abksdev.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>web hosting</title>
+      <link>https://abksdev.com/categories/web-hosting/</link>
+      <pubDate>Thu, 21 May 2020 05:08:18 +0530</pubDate>
+      
+      <guid>https://abksdev.com/categories/web-hosting/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>development</title>
@@ -21,11 +30,11 @@
     </item>
     
     <item>
-      <title>web hosting</title>
-      <link>https://abksdev.com/categories/web-hosting/</link>
+      <title>how to</title>
+      <link>https://abksdev.com/categories/how-to/</link>
       <pubDate>Tue, 19 May 2020 19:34:02 +0530</pubDate>
       
-      <guid>https://abksdev.com/categories/web-hosting/</guid>
+      <guid>https://abksdev.com/categories/how-to/</guid>
       <description></description>
     </item>
     

@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://abksdev.com/</loc>
-    <lastmod>2020-05-19T21:26:16+05:30</lastmod>
+    <lastmod>2020-05-21T05:08:18+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -53,73 +53,18 @@
   </url>
   
   <url>
-    <loc>https://abksdev.com/about/</loc>
-    <lastmod>2020-05-19T21:26:16+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://abksdev.com/tags/about-me/</loc>
-    <lastmod>2020-05-19T21:26:16+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://abksdev.com/tags/</loc>
-    <lastmod>2020-05-19T21:26:16+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://abksdev.com/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://abksdev.com/pl/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://abksdev.com/pt/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://abksdev.com/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://abksdev.com/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://abksdev.com/zh-cn/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://abksdev.com/zh-tw/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://abksdev.com/ja/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://abksdev.com/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>https://abksdev.com/blog/</loc>
-    <lastmod>2020-05-19T19:34:02+05:30</lastmod>
+    <lastmod>2020-05-21T05:08:18+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://abksdev.com/tags/blog/</loc>
+    <lastmod>2020-05-21T05:08:18+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://abksdev.com/categories/</loc>
-    <lastmod>2020-05-19T19:34:02+05:30</lastmod>
+    <lastmod>2020-05-21T05:08:18+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -168,6 +113,86 @@
   </url>
   
   <url>
+    <loc>https://abksdev.com/blog/2020_05_21/</loc>
+    <lastmod>2020-05-21T05:08:18+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://abksdev.com/tags/hugo/</loc>
+    <lastmod>2020-05-21T05:08:18+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://abksdev.com/tags/hugo-themes/</loc>
+    <lastmod>2020-05-21T05:08:18+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://abksdev.com/tags/</loc>
+    <lastmod>2020-05-21T05:08:18+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://abksdev.com/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://abksdev.com/pl/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://abksdev.com/pt/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://abksdev.com/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://abksdev.com/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://abksdev.com/zh-cn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://abksdev.com/zh-tw/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://abksdev.com/ja/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://abksdev.com/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://abksdev.com/categories/web-hosting/</loc>
+    <lastmod>2020-05-21T05:08:18+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://abksdev.com/about/</loc>
+    <lastmod>2020-05-19T21:26:16+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://abksdev.com/tags/about-me/</loc>
+    <lastmod>2020-05-19T21:26:16+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://abksdev.com/categories/development/</loc>
     <lastmod>2020-05-19T19:34:02+05:30</lastmod>
   </url>
@@ -188,12 +213,7 @@
   </url>
   
   <url>
-    <loc>https://abksdev.com/tags/hugo/</loc>
-    <lastmod>2020-05-19T19:34:02+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://abksdev.com/categories/web-hosting/</loc>
+    <loc>https://abksdev.com/categories/how-to/</loc>
     <lastmod>2020-05-19T19:34:02+05:30</lastmod>
   </url>
   

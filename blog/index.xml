@@ -6,10 +6,20 @@
     <description>Recent content in Blog on abks dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 May 2020 19:34:02 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2020 05:08:18 +0530</lastBuildDate>
     
 	<atom:link href="https://abksdev.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Choosing A Theme In HUGO For Blog</title>
+      <link>https://abksdev.com/blog/2020_05_21/</link>
+      <pubDate>Thu, 21 May 2020 05:08:18 +0530</pubDate>
+      
+      <guid>https://abksdev.com/blog/2020_05_21/</guid>
+      <description>HUGO has large collection of Themes, though every themes has unique look and feel to it, some are easier to work with but has limited set of features and others are having good array of features but are difficult to work with.
+I have tried almost 10-15 themes before selecting the theme I am currently using for this blog at the time of writing this article. I very much like the look and feel of this theme but it lacks some functionality like HTML Injection into a post (or may be I am yet to learn it) but I can live with it for now.</description>
+    </item>
     
     <item>
       <title>How I Created My First Blog And Hosted It For Free ?</title>
