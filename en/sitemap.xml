@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://abksdev.com/</loc>
-    <lastmod>2020-05-21T05:08:18+05:30</lastmod>
+    <lastmod>2020-05-22T23:43:11+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -54,17 +54,12 @@
   
   <url>
     <loc>https://abksdev.com/blog/</loc>
-    <lastmod>2020-05-21T05:08:18+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://abksdev.com/tags/blog/</loc>
-    <lastmod>2020-05-21T05:08:18+05:30</lastmod>
+    <lastmod>2020-05-22T23:43:11+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://abksdev.com/categories/</loc>
-    <lastmod>2020-05-21T05:08:18+05:30</lastmod>
+    <lastmod>2020-05-22T23:43:11+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -113,23 +108,43 @@
   </url>
   
   <url>
-    <loc>https://abksdev.com/blog/2020_05_21/</loc>
-    <lastmod>2020-05-21T05:08:18+05:30</lastmod>
+    <loc>https://abksdev.com/categories/development/</loc>
+    <lastmod>2020-05-22T23:43:11+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://abksdev.com/tags/hugo/</loc>
-    <lastmod>2020-05-21T05:08:18+05:30</lastmod>
+    <loc>https://abksdev.com/tags/google-analytics/</loc>
+    <lastmod>2020-05-22T23:43:11+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://abksdev.com/tags/hugo-themes/</loc>
-    <lastmod>2020-05-21T05:08:18+05:30</lastmod>
+    <loc>https://abksdev.com/tags/google-search-console/</loc>
+    <lastmod>2020-05-22T23:43:11+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://abksdev.com/tags/indexing/</loc>
+    <lastmod>2020-05-22T23:43:11+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://abksdev.com/tags/page-optimization/</loc>
+    <lastmod>2020-05-22T23:43:11+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://abksdev.com/tags/seo/</loc>
+    <lastmod>2020-05-22T23:43:11+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://abksdev.com/blog/2020_05_22/</loc>
+    <lastmod>2020-05-22T23:43:11+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://abksdev.com/tags/</loc>
-    <lastmod>2020-05-21T05:08:18+05:30</lastmod>
+    <lastmod>2020-05-22T23:43:11+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -179,6 +194,26 @@
   
   <url>
     <loc>https://abksdev.com/categories/web-hosting/</loc>
+    <lastmod>2020-05-22T23:43:11+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://abksdev.com/tags/blog/</loc>
+    <lastmod>2020-05-21T05:08:18+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://abksdev.com/blog/2020_05_21/</loc>
+    <lastmod>2020-05-21T05:08:18+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://abksdev.com/tags/hugo/</loc>
+    <lastmod>2020-05-21T05:08:18+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://abksdev.com/tags/hugo-themes/</loc>
     <lastmod>2020-05-21T05:08:18+05:30</lastmod>
   </url>
   
@@ -190,11 +225,6 @@
   <url>
     <loc>https://abksdev.com/tags/about-me/</loc>
     <lastmod>2020-05-19T21:26:16+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://abksdev.com/categories/development/</loc>
-    <lastmod>2020-05-19T19:34:02+05:30</lastmod>
   </url>
   
   <url>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>google search console on abks dev</title>
+    <link>https://abksdev.com/tags/google-search-console/</link>
+    <description>Recent content in google search console on abks dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 22 May 2020 23:43:11 +0530</lastBuildDate>
+    
+	<atom:link href="https://abksdev.com/tags/google-search-console/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SEO, Indexing and Page Optimizations</title>
+      <link>https://abksdev.com/blog/2020_05_22/</link>
+      <pubDate>Fri, 22 May 2020 23:43:11 +0530</pubDate>
+      
+      <guid>https://abksdev.com/blog/2020_05_22/</guid>
+      <description>So you have created a new blog/website, written a couple of articles, but your webpage is not listed in google search results and you are worried if people are ever going to find out about your blog and read those amazing articles you&amp;rsquo;ve written.
+Well don&amp;rsquo;t worry in this article I am going to tell you about the tools you need to integrate in your blog so that you can track traffic on your page, find out which of your articles are getting more attention and which don&amp;rsquo;t, so that you can improve on them.</description>
+    </item>
+    
+  </channel>
+</rss>
