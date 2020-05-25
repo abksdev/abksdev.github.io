@@ -4,17 +4,57 @@
   
   <url>
     <loc>https://abksdev.com/</loc>
-    <lastmod>2020-05-22T23:43:11+05:30</lastmod>
+    <lastmod>2020-05-25T06:23:09+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://abksdev.com/categories/android/</loc>
+    <lastmod>2020-05-25T06:23:09+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://abksdev.com/categories/app-development/</loc>
+    <lastmod>2020-05-25T06:23:09+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://abksdev.com/blog/</loc>
-    <lastmod>2020-05-22T23:43:11+05:30</lastmod>
+    <lastmod>2020-05-25T06:23:09+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://abksdev.com/categories/</loc>
-    <lastmod>2020-05-22T23:43:11+05:30</lastmod>
+    <lastmod>2020-05-25T06:23:09+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://abksdev.com/tags/flutter/</loc>
+    <lastmod>2020-05-25T06:23:09+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://abksdev.com/blog/2020_05_25/</loc>
+    <lastmod>2020-05-25T06:23:09+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://abksdev.com/tags/java/</loc>
+    <lastmod>2020-05-25T06:23:09+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://abksdev.com/tags/kotlin/</loc>
+    <lastmod>2020-05-25T06:23:09+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://abksdev.com/tags/react-native/</loc>
+    <lastmod>2020-05-25T06:23:09+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://abksdev.com/tags/</loc>
+    <lastmod>2020-05-25T06:23:09+05:30</lastmod>
   </url>
   
   <url>
@@ -49,11 +89,6 @@
   
   <url>
     <loc>https://abksdev.com/blog/2020_05_22/</loc>
-    <lastmod>2020-05-22T23:43:11+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://abksdev.com/tags/</loc>
     <lastmod>2020-05-22T23:43:11+05:30</lastmod>
   </url>
   

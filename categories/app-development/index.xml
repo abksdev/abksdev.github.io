@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>App development on abks dev</title>
+    <link>https://abksdev.com/categories/app-development/</link>
+    <description>Recent content in App development on abks dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 25 May 2020 06:23:09 +0530</lastBuildDate>
+    
+	<atom:link href="https://abksdev.com/categories/app-development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flutter or React Native</title>
+      <link>https://abksdev.com/blog/2020_05_25/</link>
+      <pubDate>Mon, 25 May 2020 06:23:09 +0530</pubDate>
+      
+      <guid>https://abksdev.com/blog/2020_05_25/</guid>
+      <description>If you&amp;rsquo;re planning to learn mobile application development and you&amp;rsquo;re a beginner in the this field, you might have came across terms like Native Application Development and Cross Platform Application Development. And then you must of have came across the list of programing languages like Java, Kotlin, Swift and Toolkit like Flutter, React Native used in Mobile Application Development. Now you&amp;rsquo;re trying to decide which programing language or Toolkit to learn, so that it will be relevant in the years to come.</description>
+    </item>
+    
+  </channel>
+</rss>
