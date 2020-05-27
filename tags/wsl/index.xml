@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wsl on abks dev</title>
+    <link>https://abksdev.com/tags/wsl/</link>
+    <description>Recent content in wsl on abks dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 27 May 2020 23:30:52 +0530</lastBuildDate>
+    
+	<atom:link href="https://abksdev.com/tags/wsl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Windows Update 2004 And WSL 2</title>
+      <link>https://abksdev.com/blog/2020_05_27/</link>
+      <pubDate>Wed, 27 May 2020 23:30:52 +0530</pubDate>
+      
+      <guid>https://abksdev.com/blog/2020_05_27/</guid>
+      <description>Microsoft is releasing the next major updated to Windows 10, commonly known as &amp;ldquo;Windows 10 2004 (20H1) Update&amp;rdquo; on May 28, 2020. This update include many feature and improvement over the last release, but the most important feature from a developer perspective is WSL 2 (Windows Subsystem for Linux version 2) as it include many feature which will make a developers life much easier.
+What is Windows Subsystem for Linux (WSL) ?</description>
+    </item>
+    
+  </channel>
+</rss>
